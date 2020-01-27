@@ -7,8 +7,9 @@ Build Google Search Results Page
 
 Covered:
 
-CSS Grid - Planned layout, included empty spaces
-Flexbox - tried to avoid use of inline block and floats.  
+> CSS Grid - Planned layout, included empty spaces.
+
+> Flexbox - tried to avoid use of inline block and floats.  
 
 A number of hurdles yet to get over.
 
