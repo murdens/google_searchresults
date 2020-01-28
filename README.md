@@ -8,7 +8,7 @@ Build Google Search Results Page
 Covered:
 
 CSS Grid
-Flexbox, tried to avoid use of inline block and floats. Also embeded fLexbox within a flexbox for related search items.
+Flexbox, tried to avoid use of inline block and floats. Also embeded flexbox within a flexbox for related search items.
 Use of img and href to link related search results.
 
 Review:
