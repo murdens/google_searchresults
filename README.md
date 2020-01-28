@@ -7,10 +7,9 @@ Build Google Search Results Page
 
 Covered:
 
-CSS Grid - Planned layout, included empty spaces
-Flexbox - tried to avoid use of inline block and floats.
-Embeded fLexbox within a flexbox for related search items.
-Ue of img and href to link related search results.
+CSS Grid
+Flexbox, tried to avoid use of inline block and floats. Also embeded fLexbox within a flexbox for related search items.
+Use of img and href to link related search results.
 
 Review:
 I think I would plan out grid ahead of build next time, although it is simple to add more sections as required.
