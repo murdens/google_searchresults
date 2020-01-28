@@ -7,6 +7,7 @@ Build Google Search Results Page
 
 Covered:
 
+<<<<<<< HEAD
 CSS Grid - Planned layout, included empty spaces
 Flexbox - tried to avoid use of inline block and floats.
 Embeded fLexbox within a flexbox for related search items.
@@ -20,6 +21,11 @@ I'm now itching to understand how to make the search dynamic so onto the next le
 
 
 
+=======
+> CSS Grid - Planned layout, included empty spaces.
+
+> Flexbox - tried to avoid use of inline block and floats.  
+>>>>>>> 0e59114a47afc29b755ddccbc924f06bc7add6e8
 
 
 
